@@ -10,21 +10,8 @@ RL Training: The script then runs a reinforcement learning agent multiple times 
 Reports: Finally, it prints a report to the console comparing a baseline (no cooldown) to the RL-based cooldown strategy.
 Directory Structure
 
-RL-MAT/
-├── data/
-│   ├── list-of-trades/
-│   │   └── trades.csv          # User's TradingView backtest export
-│   ├── formatted-result/
-│   │   └── filtered_trades.csv # Auto-generated filtered data
-├── helpers/
-│   ├── __init__.py
-│   └── csv_formatter.py        # (Optional) CSV formatting logic
-├── rl_agent/
-│   └── train_rl.py             # Main RL training script
-├── venv/                       # (Optional) Python virtual environment
-├── .gitignore
-├── requirements.txt
-└── README.md                   # This README file
+<img width="593" alt="Screenshot 2025-02-25 at 20 25 29" src="https://github.com/user-attachments/assets/b551fb24-d701-403d-86b0-7f5a8655d85f" />
+
 Getting Started
 
 Install Dependencies
